@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/SP_5a.dir/Demo.cpp.o CMakeFiles/SP_5a.dir/Test.cpp.o -o SP_5a 
